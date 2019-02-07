@@ -1,3 +1,92 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "/"
+title = "Website"
+author = ""
+googleAnalytics = ""
+defaultContentLanguage = "en"
+language = "en-US"
+paginate = 3 # Number of posts per page
+
+theme = "terrassa"
+
+[outputs]
+    home = ["HTML", "RSS"]
+    page = ["HTML", "RSS"]
+
+[params]
+    description = "Awesome website."
+    favicon = "favicon.ico" # Relative URL
+    logo = "" # Absolute URL
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+# [params.cta] # Call To Action 
+#     show = true
+#     cta = "Contact"
+#     link = "contact" # Relative URL
+
+# [params.form] # Contact form
+#     netlify = true # Use only if you are using Netlify
+#     action = "https://formspree.io/your@email.com"
+#     method = "POST"
+#     inputNameName = "name"
+#     inputNameLabel = "Name"
+#     inputNamePlaceholder = "Your name"
+#     inputEmailName = "email"
+#     inputEmailLabel = "Email"
+#     inputEmailPlaceholder = "Your email"
+#     inputMsgName = "message"
+#     inputMsgLabel = "Write something"
+#     inputMsgLength = 750
+#     inputSubmitValue = "Send"
+
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.contact] # Contact info
+    email = "support@example.com"
+    phone = "xxx xxx xxx"
+    skype = ""
+    address = "001 Street, XX 99999"
+
+[params.social] # Social networks
+    twitter = ""
+    facebook = ""
+    github = ""
+    gitlab = ""
+    codepen = ""
+    instagram = ""
+    pinterest = ""
+    youtube = ""
+    linkedin = ""
+    weibo = ""
+    mastodon = ""
+    tumblr = ""
+    flickr = ""
+    "500px" = ""
+
+[params.copy] # Copyright
+    copy = "© 2019 all rights reserved" # Empty for default content
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
