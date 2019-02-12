@@ -1,6 +1,5 @@
-
 ---
-title: "本学期大部分活动搬到435 Boulder Ct， Suite 400， Pleasanton"
+title: "本学期大部分活动搬到435 Boulder Ct， Suite 400"
 description: ""
 date: 2019-02-12T07:12:34-08:00
 publishDate: 2019-02-12T07:12:34-08:00
@@ -34,6 +33,5 @@ Self-study on Wednesday, Thursday and Friday  at 275 Rose  6:30~10:00PM
 
 
 这个是我们学习系统里的预习部分结合我们提供的其他练习内容，比如周末的竞赛练习网络数学自学，应该可以让孩子牢固掌握学校水平的数学物理内容，有加强需要的家长孩子再考虑我们s数学物理计算机英语的提高和竞赛内容，通过这样一系列内容，让孩子和家长的投入得到最大的回报
-
 
 

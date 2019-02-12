@@ -41,7 +41,7 @@ theme = "terrassa"
 #     inputSubmitValue = "Send"
 
 [params.posts]
-    showAuthor = true
+    showAuthor = false
     showDate = true
     showTags = true
     dateFormat = "Monday, Jan, 2006"
