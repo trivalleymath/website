@@ -7,4 +7,4 @@ menu: main
 weight: 1
 ---
 
-# The awesome website just for you.
+# Your road to college starts here ...
