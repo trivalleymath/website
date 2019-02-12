@@ -7,6 +7,7 @@ menu: main
 weight: 4
 ---
 
+# Personalized content feature coming soon ...
 
 + [Login](/)
 
@@ -14,4 +15,4 @@ weight: 4
 
 Account registration is free. 
 
-Please contact info@31415926.org if you have any questions.
+Please contact: trivalleymath+info@gmail.com if you have any questions.

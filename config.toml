@@ -47,7 +47,7 @@ theme = "terrassa"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "info@example.com"
+    email = "trivalleymath+info@gmail.com"
     phone = "xxx xxx xxx"
     skype = ""
     address = "435 Boulder Ct, Suite 400, Pleasanton, CA"
