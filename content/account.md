@@ -9,9 +9,10 @@ weight: 4
 
 # Personalized content feature coming soon ...
 
-+ [Login](/)
++ [Login](http://52.24.95.185:10004/auth/realms/STEM-Academy/account/)
 
-+ [Signup](/) 
++ [Signup](http://52.24.95.185:10004/auth/realms/STEM-Academy/login-actions/registration?client_id=account&tab_id=vMaALTIGF-E) 
+
 
 Account registration is free. 
 
