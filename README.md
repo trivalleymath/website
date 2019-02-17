@@ -5,7 +5,10 @@
 [theme](https://github.com/danielkvist/hugo-terrassa-theme) by danielkvist
 
 + Markdown
-https://gohugo.io/content-management/formats/
+  + https://github.com/russross/blackfriday/wiki/Extensions
+  + https://commonmark.org/help/
+  + https://commonmark.org/
+  + https://gohugo.io/content-management/formats/
 
 + Git
 https://code.visualstudio.com/docs/editor/versioncontrol
