@@ -40,6 +40,12 @@ hugo new posts/new-post.md
 Start local server in debug mode
 ```
 hugo server -D
+
+or
+docker-compose build
+
+docker-compose up
+
 ```
 
 Update submodule
