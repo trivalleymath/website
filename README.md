@@ -4,6 +4,11 @@
 
 [theme](https://github.com/danielkvist/hugo-terrassa-theme) by danielkvist
 
++ Markdown
+https://gohugo.io/content-management/formats/
+
++ Git
+https://code.visualstudio.com/docs/editor/versioncontrol
 
 
 ```
@@ -29,6 +34,10 @@ Add a new post
 hugo new posts/new-post.md
 ```
 
+Start local server in debug mode
+```
+hugo server -D
+```
 
 Update submodule
 
