@@ -16,6 +16,23 @@ services:
       - '/bin/hugo'
       - 'server'
       - '--bind=0.0.0.0'
-      - '-D'
-      - '-w'
+      - '--baseURL=https://www.local.dhnt.io/'
+      - '--appendPort=false'
+      - '--buildDrafts'
+      - '--buildExpired'
+      - '--buildFuture'
+      - '--watch'
+    labels:
+      - traefik.backend=hugo
+      - traefik.enable=true
+      - traefik.frontend.rule=Host:hugo.local.dhnt.io,www.local.dhnt.io,local.dhnt.io
+      - traefik.frontend.passHostHeader=true
+      - traefik.backend.loadbalancer.stickiness=false
+      - traefik.docker.network=web
+      - traefik.port=1313
+
+networks:
+  default:
+    external: true
+    name: web
 ##
