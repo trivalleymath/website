@@ -59,7 +59,7 @@ theme = "terrassa"
     email = "trivalleymath+info@gmail.com"
     phone = "xxx xxx xxx"
     skype = ""
-    address = "435 Boulder Ct, Suite 400, Pleasanton, CA"
+    address = "435 Boulder Ct, Suite 400, Pleasanton, CA 94566"
 
 [params.social] # Social networks
     twitter = ""
