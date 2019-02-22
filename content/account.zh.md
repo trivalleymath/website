@@ -1,5 +1,5 @@
 ---
-title: "Account"
+title: "帐户"
 description: ""
 images: []
 draft: false
@@ -7,15 +7,13 @@ menu: main
 weight: 4
 ---
 
-# ZHONG WEN
+# 个性化内容即将推出 ...
 
-# Personalized content feature coming soon ...
++ [登录](http://52.24.95.185:10004/auth/realms/STEM-Academy/account/)
 
-+ [Login](http://52.24.95.185:10004/auth/realms/STEM-Academy/account/)
-
-+ [Signup](http://52.24.95.185:10004/auth/realms/STEM-Academy/login-actions/registration?client_id=account&tab_id=vMaALTIGF-E) 
++ [注册](http://52.24.95.185:10004/auth/realms/STEM-Academy/login-actions/registration?client_id=account&tab_id=vMaALTIGF-E) 
 
 
-Account registration is free. 
+帐户注册免费。
 
-Please contact: trivalleymath+info@gmail.com if you have any questions.
+如果您有任何疑问，请联系：trivalleymath+info@gmail.com

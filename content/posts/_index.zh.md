@@ -1,5 +1,5 @@
 ---
-title: "Bulletin"
+title: "公告"
 description: ""
 images: []
 draft: false

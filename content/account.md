@@ -7,7 +7,7 @@ menu: main
 weight: 4
 ---
 
-# Personalized content feature coming soon ...
+# Personalized content coming soon ...
 
 + [Login](http://52.24.95.185:10004/auth/realms/STEM-Academy/account/)
 
